@@ -1,0 +1,79 @@
+html {
+    background-color: black;
+}
+
+#Heading {
+    background-image:
+    url(https://wallpapercave.com/wp/wUaTGBY.jpg);
+    display: flex;
+    justify-content: space-between;
+}
+
+#HeadingText {
+    color: lime;
+    text-align: center;
+    flex-grow: 2;
+}
+
+#Quote {
+    color: lime;
+}
+
+#WhoamI {
+    background-image:
+    url(https://wallpapercave.com/wp/wUaTGBY.jpg);
+    background-size: contain;
+    color: lime;
+}
+
+#InterestsInclude {
+    background-image:
+    url(https://wallpapercave.com/wp/wUaTGBY.jpg);
+    background-size: contain;
+    color: lime;
+}
+
+#ProgrammingLanguagesFamiliarWith {
+    background-image:
+    url(https://wallpapercave.com/wp/wUaTGBY.jpg);
+    background-size: contain;
+    color: lime;
+}
+
+#DegreeGPA {
+    background-image:
+    url(https://wallpapercave.com/wp/wUaTGBY.jpg);
+    background-size: contain;
+    color: lime;
+}
+
+#Projects {
+    background-image:
+    url(https://wallpapercave.com/wp/wUaTGBY.jpg);
+    background-size: contain;
+    color: lime;
+}
+
+a:link {
+    color: hotpink;
+}
+
+a:visited {
+    color: aqua;
+}
+
+a:hover {
+    color: violet;
+}
+
+a:active {
+    color: orange;
+}
+
+p {
+    color: lime;
+}
+
+ul {
+    color: lime;
+}
